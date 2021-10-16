@@ -1,0 +1,43 @@
+#home{
+    background: #ffc107;
+    color: #ffffff;
+}
+
+#home {
+	background: #ffc107;
+	color: white;
+}
+
+.caixa {
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a {
+	margin: 5px 15px;
+}
+
+div > .imagem1:hover {
+    box-shadow: #ffc107c0;
+}
+
+
+
+/* RESPONSIVIDADE */
+
+@media (max-width: 667px) {
+    #home{
+      background: #ffc107c0;
+    }
+
+    .display-4{
+        font-size: 2rem;
+    }
+
+    .input1{
+       margin-left: -10px;
+    } 
+ 
+  }
+
+  

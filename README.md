@@ -1,30 +1,30 @@
 # Finans  
 
-## 🚀 Sobre o projeto  
-O **Finans** é um projeto que simula o site de uma instituição financeira, desenvolvido para explorar conceitos de **desenvolvimento frontend**.  
-O objetivo foi criar uma interface moderna, intuitiva e responsiva, utilizando **HTML, CSS e Bootstrap**, garantindo uma experiência agradável para os usuários que acessam os serviços da instituição.  
+## 🚀 About the Project  
+**Finans** is a project that simulates the website of a financial institution, designed to explore **frontend development concepts**.  
+The goal was to create a modern, intuitive, and responsive interface using **HTML, CSS, and Bootstrap**, ensuring a pleasant experience for users accessing the institution's services.  
 
 ---
 
-## 🛠️ Tecnologias utilizadas  
-✅ **HTML5** – Estruturação da página  
-✅ **CSS3** – Estilização e design responsivo  
-✅ **Bootstrap** – Layout flexível e otimizado  
+## 🛠️ Technologies Used  
+✅ **HTML5** – Page structure  
+✅ **CSS3** – Styling and responsive design  
+✅ **Bootstrap** – Flexible and optimized layout  
 
 ---
 
-## 📸 Demonstração  
-🔗 [Clique aqui para acessar o projeto](https://jaianaaraujo.github.io/Finans/) e explore o site da Finans!  
+## 📸 Demo  
+🔗 [Click here to access the project](https://jaianaaraujo.github.io/Finans/) and explore Finans!  
 
 ---
 
-## 📌 Status do projeto  
-✔️ Versão inicial desenvolvida e disponível online  
-🔄 Melhorias e refinamentos em andamento  
+## 📌 Project Status  
+✔️ Initial version developed and available online  
+🔄 Improvements and refinements in progress  
 
 ---
 
-## 📩 Contato  
-📧 **E-mail:** [contact@jaianaaraujo.com](mailto:contact@jaianaaraujo.com) | [programacao.jai@gmail.com](mailto:programacao.jai@gmail.com)  
+## 📩 Contact  
+📧 **Email:** [contact@jaianaaraujo.com](mailto:contact@jaianaaraujo.com) | [programacao.jai@gmail.com](mailto:programacao.jai@gmail.com)  
 💼 **LinkedIn:** [Jaiana Santos](https://www.linkedin.com/in/jaiana-santos-dev/)  
 📂 **GitHub:** [@jaianaaraujo](https://github.com/jaianaaraujo/)
